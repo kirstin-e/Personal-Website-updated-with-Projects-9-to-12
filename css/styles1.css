@@ -1,0 +1,9 @@
+ul,body {
+	margin: 20px;
+	font-family: Arial, sans-serif;
+	color: #333;
+}
+
+span {
+	font-weight: bold;
+}
